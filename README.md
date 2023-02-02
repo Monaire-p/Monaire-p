@@ -10,6 +10,7 @@ I am a self taught software engineer, i recently took part in the digital future
 
 
 <h3 align="left">Stats:</h3>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Monaire-p)](https://github.com/anuraghazra/github-readme-stats)
 
 
