@@ -4,7 +4,7 @@
 
 I am a self taught software engineer, i recently took part in the digital futures program where I learned the fundamentals of software engineering and created a full stack application. 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Monaire-p=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?Monaire-p=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
