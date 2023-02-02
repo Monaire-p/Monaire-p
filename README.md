@@ -9,6 +9,11 @@ I am a self taught software engineer, i recently took part in the digital future
 
 
 Languages and Tools:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+
+
+Contact Me:
 
 
 <!--
