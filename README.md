@@ -1,4 +1,4 @@
-### Hi,👋 I'm Monaire Pillay ![download](https://user-images.githubusercontent.com/106288580/216457067-6fa2d569-95b6-4969-a438-57a865301a89.png)
+### ![download](https://user-images.githubusercontent.com/106288580/216457067-6fa2d569-95b6-4969-a438-57a865301a89.png)
 
 
 
